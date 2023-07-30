@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">CONECTA CULTURAS</string>
+    <!-- textos para los titulos, botones y hints-->
+    <string name="hint_busqueda">Busca aqui tu saber</string>
+    <string name="titulo_main">Pueblos y Nacionalidades</string>
+    <string name="titulo_tipos">Escoja el tipo de archivo del saber</string>
+    <string name="desc_btn_ayuda">botton de ayuda</string>
+    <string name="desc_btn_nuevo">boton para agregar un nuevo saber</string>
+    <!-- textos apara las paginas de crear nuevo y actualizar y eliminar-->
+    <string name="hint_titlulo">Nombre del saber</string>
+    <string name="hint_descripcion">Descriva el saber</string>
+    <string name="titulo_publicar">¿Publicar?</string>
+    <string name="radio_si">SI</string>
+    <string name="radio_no">NO</string>
+    <string name="titulo_nacPue">Escoja la nacionalidad o pueblo</string>
+    <string name="titulo_tipo">Tipo de saber</string>
+    <string name="hint_tematicas">Tematica del saber: separar con comas y sin espacios</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_create">Agregar</string>
+    <string name="btn_select_saber">Escoger Saber</string>
+<!--    textos para la activity de de login-->
+    <string name="btn_login">Ingresar</string>
+    <string name="title_login">Inicio Sesion</string>
+    <string name="UserName">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="userName_hint">Ingrese su usuario</string>
+    <string name="password_hint">Ingrese su contraseña</string>
+
+    <!--  Valores de los listviews  -->
+    <string-array name="NacionesPueblos">
+        <item>Nacionalidad Achuar</item>
+        <item>Nacionalidad Andoa</item>
+        <item>Nacionalidad Awa</item>
+        <item>Nacionalidad Chachi</item>
+        <item>Nacionalidad Cofán</item>
+        <item>Nacionalidad Éperara Siapidara</item>
+        <!--        <item>Nacionalidad Kichwa</item>-->
+        <item>Nacionalidad Sápara</item>
+        <item>Nacionalidad Sekoya</item>
+        <item>Nacionalidad Shiwiar</item>
+        <item>Nacionalidad Shuar</item>
+        <item>Nacionalidad Siona</item>
+        <item>Nacionalidad Tsáchila</item>
+        <item>Nacionalidad Waorani</item>
+        <item>Pueblo AFroecuatoriano</item>
+        <item>Pueblo Huancavilca</item>
+        <item>Pueblo Manta</item>
+        <item>Pueblo Montuvios</item>
+        <item>Pueblo Chibuleo</item>
+        <item>Pueblo Kañari</item>
+        <item>Pueblo Karanki</item>
+        <item>Pueblo Kayambi</item>
+        <item>Pueblo Kichwa Amazonía</item>
+        <item>Pueblo Kisapincha</item>
+        <item>Pueblo Natabuela</item>
+        <item>Pueblo Otavalo</item>
+        <item>Pueblo Palta</item>
+        <item>Pueblo Panzaleo</item>
+        <item>Pueblo Pasto</item>
+        <item>Pueblo Puruwá</item>
+        <item>Pueblo Salasaka</item>
+        <item>Pueblo Saraguro</item>
+        <item>Pueblo Tomabela</item>
+        <item>Pueblo Waranka</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>Imagen</item>
+        <item>Video</item>
+        <item>Audio</item>
+        <item>Texto</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
